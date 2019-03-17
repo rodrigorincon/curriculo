@@ -2,3 +2,13 @@ main.aux
 main.log
 main.out
 
+
+main-en-usa.aux
+main-en-usa.log
+main-en-usa.out
+
+main-pt-br.aux
+main-pt-br.log
+main-pt-br.out
+
+texput.log
