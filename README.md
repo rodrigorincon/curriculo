@@ -7,6 +7,7 @@ Para compilar o currículo, precisa instalar o latex através dos comandos:
 ```bash
 sudo apt install texlive-latex-base
 sudo apt-get install texlive-latex-extra
+sudo apt-get install texlive-fonts-extra
 ```
 Observação: comandos para sistemas Debian.
 
